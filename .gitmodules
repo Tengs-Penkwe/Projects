@@ -16,3 +16,6 @@
 [submodule "MicroMath"]
 	path = MicroMath
 	url = git@github.com:Tengs-Penkwe/MicroMath.git
+[submodule "Haskell-C-Compiler"]
+	path = Haskell-C-Compiler
+	url = git@github.com:Tengs-Penkwe/Haskell-C-Compiler.git
