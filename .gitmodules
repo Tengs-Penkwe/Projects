@@ -13,3 +13,6 @@
 [submodule "MicroDB"]
 	path = MicroDB
 	url = git@github.com:Tengs-Penkwe/MicroDB.git
+[submodule "MicroMath"]
+	path = MicroMath
+	url = git@github.com:Tengs-Penkwe/MicroMath.git
