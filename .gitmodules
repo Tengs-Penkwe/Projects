@@ -10,3 +10,6 @@
 [submodule "Y86-Chisel"]
 	path = Y86-Chisel
 	url = git@github.com:Tengs-Penkwe/Y86-Chisel.git
+[submodule "MicroDB"]
+	path = MicroDB
+	url = git@github.com:Tengs-Penkwe/MicroDB.git
